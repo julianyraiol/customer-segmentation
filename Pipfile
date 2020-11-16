@@ -8,6 +8,9 @@ jupyterlab = "*"
 pandas = "*"
 matplotlib = "*"
 plotly = "*"
+seaborn = "*"
+psutil = "*"
+orca = "*"
 
 [dev-packages]
 
